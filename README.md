@@ -53,4 +53,61 @@ pip install -r requirements.txt
 ```bash
 pytest
 ```
+## 🤝 Colaboradores
+
+Agradecemos às seguintes integrantes que contribuíram ativamente para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o título do link"> 
+        <img src="https://avatars.githubusercontent.com/u/26656337?v=4" width="100px;" alt="Foto do Jéssica Lizar no GitHub"/><br>
+        <sub>
+          <b>Jéssica Lizar</b>
+        </sub>
+      </a>
+    </td>
+      <a href="#" title="defina o título do link">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFkOF5Mlf34Kw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715181463453?e=1731542400&v=beta&t=9t6-Q_MAo9QQDYigdY42pgK30P8APEZX545VBwQAu7c" width="100px;" alt="Foto Lívia Boscolo no LinkedIn"/><br>
+        <sub>
+          <b>Lívia Boscolo</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/116692066?v=4" width="100px;" alt="Foto Michelle Costa no Github"/><br>
+        <sub>
+          <b>Michelle Costa</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/6678054?v=4" width="100px;" alt="Foto Nadi Duno no Github"/><br>
+        <sub>
+          <b>Nadi Duno</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/70439400?v=4" width="100px;" alt="Foto Raquel Maia no Github"/><br>
+        <sub>
+          <b>Raquel Maia</b>
+        </sub>
+      </a>
+    </td>
+        </td>
+        <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/101351309?v=4" width="100px;" alt="Foto Rosana TS no Github"/><br>
+        <sub>
+          <b>Rosana TS Francisco</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
