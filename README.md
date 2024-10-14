@@ -53,6 +53,10 @@ pip install -r requirements.txt
 ```bash
 pytest
 ```
+## 🤝 Colaboradores
+
+Agradecemos às seguintes integrantes que contribuíram ativamente para este projeto:
+
 <table>
   <tr>
     <td align="center">
