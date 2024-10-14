@@ -6,8 +6,8 @@
 
 # Tecnologias Utilizadas
 -Python: Versão 3.12.1
--Django: Versão
--Pytest: Versão
+-Django: 
+-Pytest:
 -Configuração do Ambiente
 
 Instalação das Dependências
